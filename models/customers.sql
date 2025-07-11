@@ -1,11 +1,11 @@
 with customers as (
     select id, first_name, last_name
-    from 'dbt-tutorial'.jaffle_shop.customers
+    from dbt-tutorial.jaffle_shop.customers
 ),
 
 orders as (
-    select id, user_id, order_id, status
-    from 'dbt-tutorial'.jaffle_shop.orders
+    select id, user_id, order_date, status
+    from dbt-tutorial.jaffle_shop.orders
 ),
 
 customer_orders as(
