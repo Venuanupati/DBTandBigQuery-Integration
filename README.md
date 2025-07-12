@@ -1,4 +1,4 @@
-# DBTandBigquery-Simple-Project
+# DBTandBigquery-Integration
 
 **Project Overview**
 
