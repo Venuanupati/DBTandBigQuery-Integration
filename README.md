@@ -1,12 +1,12 @@
 # DBTandBigquery-Integration
 
-**Project Overview**
+**Project Overview:**
 
 In this project, I set up and implemented an end-to-end dbt data modeling pipeline using BigQuery to build confidence in modern data engineering workflows.
 
-**Steps Implemented**
+**Steps Implemented:**
 
-1) **Created a dbt Cloud account** and set up a new project.
+1) ***Created a dbt Cloud account*** and set up a new project.
 2) Created a BigQuery project on GCP and configured:
    --> A service account
    --> Generated and used the JSON key to connect BigQuery with dbt Cloud.
