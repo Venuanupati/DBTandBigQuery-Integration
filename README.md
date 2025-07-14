@@ -1,4 +1,4 @@
-# DBTandBigquery-Integration
+# DBTandBigquery Integration
 
 **Project Overview:**
 
